@@ -29,6 +29,5 @@ Description: Qt 5 Image Formats module
  Qt is a cross-platform C++ application framework. Qt's primary feature
  is its rich set of widgets that provide standard GUI functionality.
  .
- Qt Image Formats contains ready to use visual effects for OpenGL 
- QML applications.
-
+ This package contains plugins for adding support for MNG, TGA, TIFF and WBMP
+ image formats.
