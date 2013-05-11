@@ -20,7 +20,7 @@ Homepage: http://qt-project.org/
 Vcs-Git: git://anonscm.debian.org/pkg-kde/qt/qtimageformats.git
 Vcs-Browser: http://anonscm.debian.org/gitweb/?p=pkg-kde/qt/qtimageformats.git;a=summary
 
-Package: libqt5imageformats5
+Package: qt5-image-formats-plugins
 Architecture: any
 Multi-Arch: same
 Pre-Depends: dpkg (>= 1.15.6~), ${misc:Pre-Depends}
