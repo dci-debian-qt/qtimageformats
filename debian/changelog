@@ -1,5 +1,5 @@
-qtimageformats-opensource-src (5.0.2-1) UNRELEASED; urgency=low
+qtimageformats-opensource-src (5.0.2-1) experimental; urgency=low
 
   * Initial release. (Closes: #697509)
 
- -- Timo Jyrinki <timo-jyrinki@ubuntu.com>  Thu, 21 Mar 2013 13:51:56 +0000
+ -- Lisandro Damián Nicanor Pérez Meyer <lisandro@debian.org>  Sat, 11 May 2013 16:14:53 -0300
