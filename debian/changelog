@@ -2,7 +2,7 @@ qtimageformats-opensource-src (5.2.0-1) UNRELEASED; urgency=low
 
   [ Dmitry Shachnev ]
   * New upstream release.
-  * Bump qtbase build-dependency to 5.2.0.
+  * Bump qtbase build-dependency to 5.2.0+dfsg.
 
  -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Wed, 30 Oct 2013 10:16:42 +0400
 
