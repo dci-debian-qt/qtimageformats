@@ -1,9 +1,9 @@
-qtimageformats-opensource-src (5.2.0-3) UNRELEASED; urgency=medium
+qtimageformats-opensource-src (5.2.0-3) unstable; urgency=medium
 
   [ Pino Toscano ]
   * Do not install the development stuff of the plugins.
 
- -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Fri, 31 Jan 2014 20:20:13 +0100
+ -- Lisandro Damián Nicanor Pérez Meyer <lisandro@debian.org>  Sat, 01 Feb 2014 18:21:26 -0300
 
 qtimageformats-opensource-src (5.2.0-2) unstable; urgency=medium
 
