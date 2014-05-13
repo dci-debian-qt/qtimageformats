@@ -12,10 +12,13 @@ export QT_SELECT := qt5
 	dh $@ --parallel
 
 override_dh_auto_configure:
-	qmake
+	qmake QT_BUILD_PARTS+=tests
 
 override_dh_auto_install:
 	dh_auto_install
 	
 	# Remove the development stuff of the installed plugins
 	rm -rfv $(CURDIR)/debian/qt5-image-formats-plugins/usr/lib/*/cmake/
+
+override_dh_auto_test:
+	xvfb-run -a dh_auto_test -- QT_PLUGIN_PATH=$(CURDIR)/plugins
