@@ -8,6 +8,7 @@ qtimageformats-opensource-src (5.3.0-1) UNRELEASED; urgency=medium
   * New upstream release.
   * Build depend upon libjasper-dev and libwebp-dev to avoid using the
     embedded copies.
+  * Add Jasper's license to debian/copyright.
 
  -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Tue, 13 May 2014 17:04:06 +0400
 
