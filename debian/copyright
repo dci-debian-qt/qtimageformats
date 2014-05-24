@@ -39,10 +39,10 @@ Copyright: 1988-1997 Sam Leffler
            1991-1997 Silicon Graphics, Inc.
 License: BSD-libtiff
 
-Files: libtiff/port/strcasecmp.c
-       libtiff/port/strtoul.c
-       libtiff/port/getopt.c
-       libtiff/port/lfind.c
+Files: src/3rdparty/libtiff/port/strcasecmp.c
+       src/3rdparty/libtiff/port/strtoul.c
+       src/3rdparty/libtiff/port/getopt.c
+       src/3rdparty/libtiff/port/lfind.c
 Copyright: 1987-1993 The Regents of the University of California.
 License: BSD-3-clause
 
