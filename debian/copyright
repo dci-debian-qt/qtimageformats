@@ -29,6 +29,11 @@ Copyright: 2001-2006 Michael David Adams
            1999-2000 The University of British Columbia
 License: JasPer-License-Version-2.0
 
+Files: src/3rdparty/libmng/*
+Copyright: 2000-2004 G.Juyn
+           2000 AM <s98t269@stmail.eng.kagawa-u.ac.jp>
+License: BSD-3-clause
+
 Files: *.qdoc
 Copyright: 2012 Digia Plc and/or its subsidiary(-ies).
 License: GFDL-NIV-1.3
