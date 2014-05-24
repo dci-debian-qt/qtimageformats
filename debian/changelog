@@ -1,4 +1,4 @@
-qtimageformats-opensource-src (5.3.0-1) UNRELEASED; urgency=medium
+qtimageformats-opensource-src (5.3.0-1) experimental; urgency=medium
 
   [ Dmitry Shachnev ]
   * Remove dh_builddeb override, xz is now the default compression method.
@@ -10,7 +10,7 @@ qtimageformats-opensource-src (5.3.0-1) UNRELEASED; urgency=medium
     embedded copies.
   * Add libjasper, libmng, libtiff and libwebp's licenses to debian/copyright.
 
- -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Tue, 13 May 2014 17:04:06 +0400
+ -- Lisandro Damián Nicanor Pérez Meyer <lisandro@debian.org>  Sat, 24 May 2014 20:09:12 -0300
 
 qtimageformats-opensource-src (5.2.1-2) unstable; urgency=medium
 
