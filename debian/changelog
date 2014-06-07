@@ -4,6 +4,8 @@ qtimageformats-opensource-src (5.3.0-3) UNRELEASED; urgency=medium
   * Backport Dmitry Shachnev's
     make_qwebphandler_write_work_on_big_endian_systems.patch to properly handle
     big endian machines.
+  * Build depend upon libwebp >= 0.4.0-4.1~ to solve endianness bug that
+    caused a FTBFS in s390x.
 
  -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Wed, 04 Jun 2014 18:24:37 -0300
 
