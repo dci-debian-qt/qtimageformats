@@ -3,6 +3,8 @@ qtimageformats-opensource-src (5.3.1-1) UNRELEASED; urgency=medium
   [ Lisandro Damián Nicanor Pérez Meyer ]
   * New upstream release.
   * Bump Qt build dependencies.
+  * Remove make_qwebphandler_write_work_on_big_endian_systems.patch,
+    applied upstream.
 
  -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sun, 29 Jun 2014 16:30:14 -0300
 
