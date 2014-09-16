@@ -4,6 +4,7 @@ qtimageformats-opensource-src (5.3.2-1) UNRELEASED; urgency=medium
   * New upstream release.
     - Removes undistributable files (Closes: #760172).
   * Bump Qt build dependencies.
+  * Create fix_libmng_test.patch in order to use the system libmng.
 
  -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Tue, 16 Sep 2014 15:35:16 -0300
 

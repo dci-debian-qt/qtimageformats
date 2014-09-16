@@ -1,0 +1,22 @@
+Author: Lisandro Damián Nicanor Pérez Meyer <lisandro@debian.org>
+Description: fix libmng test by adding necessary header.
+  libmng pulls in libjpeg. In turn libjpeg requires that code that uses it should
+  include stdio.h [0].
+  .
+  [0] <https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=461602#10>
+Applied-Upstream: no
+
+---
+ config.tests/libmng/libmng.cpp |    1 +
+ 1 file changed, 1 insertion(+)
+
+--- a/config.tests/libmng/libmng.cpp
++++ b/config.tests/libmng/libmng.cpp
+@@ -39,6 +39,7 @@
+ **
+ ****************************************************************************/
+ 
++#include <stdio.h>
+ #include <libmng.h>
+ 
+ int main(int, char **)
