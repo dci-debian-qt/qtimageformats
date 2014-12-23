@@ -3,6 +3,7 @@ qtimageformats-opensource-src (5.4.0-1) UNRELEASED; urgency=medium
   [ Dmitry Shachnev ]
   * New upstream release.
   * Build-depend on qtbase 5.4.0.
+  * Update debian/copyright.
 
  -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Tue, 23 Dec 2014 18:25:37 +0300
 
