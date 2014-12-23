@@ -5,6 +5,7 @@ qtimageformats-opensource-src (5.4.0-1) UNRELEASED; urgency=medium
   * Drop fix_libmng_test.patch, applied upstream.
   * Build-depend on qtbase 5.4.0.
   * Update debian/copyright.
+  * Re-enable build time tests.
   * Update Vcs-Browser field to point to cgit interface.
   * Bump Standards-Version to 3.9.6, no changes needed.
   * Add myself to Uploaders.
