@@ -1,6 +1,5 @@
-qtimageformats-opensource-src (5.4.0-1) UNRELEASED; urgency=medium
+qtimageformats-opensource-src (5.4.0-1) experimental; urgency=medium
 
-  [ Dmitry Shachnev ]
   * New upstream release.
   * Drop fix_libmng_test.patch, applied upstream.
   * Build-depend on qtbase 5.4.0.
@@ -9,7 +8,7 @@ qtimageformats-opensource-src (5.4.0-1) UNRELEASED; urgency=medium
   * Bump Standards-Version to 3.9.6, no changes needed.
   * Add myself to Uploaders.
 
- -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Tue, 23 Dec 2014 18:25:37 +0300
+ -- Dmitry Shachnev <mitya57@debian.org>  Wed, 24 Dec 2014 21:28:11 +0300
 
 qtimageformats-opensource-src (5.3.2-2) unstable; urgency=medium
 
