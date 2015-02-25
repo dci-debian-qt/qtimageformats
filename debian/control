@@ -16,7 +16,7 @@ Build-Depends: debhelper (>= 9),
                libtiff-dev,
                libwebp-dev (>= 0.4.0-4.1~),
                pkg-kde-tools,
-               qtbase5-private-dev (>= 5.4.0+dfsg~),
+               qtbase5-private-dev (>= 5.4.1+dfsg~),
                xauth,
                xvfb
 Standards-Version: 3.9.6
