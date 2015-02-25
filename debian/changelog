@@ -1,11 +1,11 @@
-qtimageformats-opensource-src (5.4.1-1) UNRELEASED; urgency=medium
+qtimageformats-opensource-src (5.4.1-1) experimental; urgency=medium
 
   * New upstream release.
   * Update debian/watch to use https://download.qt.io/.
   * Build-depend on qtbase 5.4.1.
   * Bump year in debian/copyright.
 
- -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Wed, 25 Feb 2015 10:57:43 +0300
+ -- Dmitry Shachnev <mitya57@debian.org>  Wed, 25 Feb 2015 11:10:59 +0300
 
 qtimageformats-opensource-src (5.4.0-1) experimental; urgency=medium
 
