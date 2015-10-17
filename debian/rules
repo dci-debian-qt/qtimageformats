@@ -20,7 +20,5 @@ override_dh_auto_install:
 	# Remove the development stuff of the installed plugins
 	rm -rfv $(CURDIR)/debian/qt5-image-formats-plugins/usr/lib/*/cmake/
 
-override_dh_auto_test-indep:
-
-override_dh_auto_test-arch:
+override_dh_auto_test:
 	-xvfb-run -a dh_auto_test -- QT_PLUGIN_PATH=$(CURDIR)/plugins
