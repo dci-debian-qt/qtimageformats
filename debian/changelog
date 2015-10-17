@@ -1,12 +1,11 @@
-qtimageformats-opensource-src (5.5.0-1) UNRELEASED; urgency=medium
+qtimageformats-opensource-src (5.5.0-1) experimental; urgency=medium
 
-  [ Dmitry Shachnev ]
   * New upstream release.
   * Update debian/copyright.
   * Bump qtbase5-private-dev build-dependency to 5.5.0.
   * Run the tests, but ignore the tests results for now.
 
- -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Wed, 26 Aug 2015 17:41:43 +0300
+ -- Dmitry Shachnev <mitya57@debian.org>  Thu, 27 Aug 2015 14:30:24 +0300
 
 qtimageformats-opensource-src (5.4.2-2) unstable; urgency=medium
 
