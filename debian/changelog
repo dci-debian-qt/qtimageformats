@@ -9,6 +9,9 @@ qtimageformats-opensource-src (5.6.0~beta-1) UNRELEASED; urgency=medium
     before uploading 5.6.0 final).
   * Remove build-dependency on qtbase5-private-dev. The private qtbase headers
     are not used, so depending on qtbase5-dev is enough.
+  * Run the tests without Xvfb, just set QT_QPA_PLATFORM=minimal.
+  * Stop ignoring the tests failures (a bug in qtbase which prevented them from
+    succeeding has been fixed in the last upload).
 
  -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sun, 27 Dec 2015 16:30:34 -0800
 
