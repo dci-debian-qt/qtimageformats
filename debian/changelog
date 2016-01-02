@@ -1,7 +1,12 @@
 qtimageformats-opensource-src (5.6.0~beta-1) UNRELEASED; urgency=medium
 
+  [ Diane Trout ]
   * New upstream release
     - Bump Qt Build dpendency.
+
+  [ Dmitry Shachnev ]
+  * Update debian/watch to track experimental releases (needs to be reverted
+    before uploading 5.6.0 final).
 
  -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sun, 27 Dec 2015 16:30:34 -0800
 
