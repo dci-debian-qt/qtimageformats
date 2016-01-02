@@ -2,11 +2,13 @@ qtimageformats-opensource-src (5.6.0~beta-1) UNRELEASED; urgency=medium
 
   [ Diane Trout ]
   * New upstream release
-    - Bump Qt Build dpendency.
+    - Bump qtbase build-dependency to 5.6.0~beta.
 
   [ Dmitry Shachnev ]
   * Update debian/watch to track experimental releases (needs to be reverted
     before uploading 5.6.0 final).
+  * Remove build-dependency on qtbase5-private-dev. The private qtbase headers
+    are not used, so depending on qtbase5-dev is enough.
 
  -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sun, 27 Dec 2015 16:30:34 -0800
 
