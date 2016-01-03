@@ -1,4 +1,4 @@
-qtimageformats-opensource-src (5.6.0~beta-1) UNRELEASED; urgency=medium
+qtimageformats-opensource-src (5.6.0~beta-1) experimental; urgency=medium
 
   [ Diane Trout ]
   * New upstream release
@@ -13,7 +13,7 @@ qtimageformats-opensource-src (5.6.0~beta-1) UNRELEASED; urgency=medium
   * Stop ignoring the tests failures (a bug in qtbase which prevented them from
     succeeding has been fixed in the last upload).
 
- -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sun, 27 Dec 2015 16:30:34 -0800
+ -- Dmitry Shachnev <mitya57@debian.org>  Sun, 03 Jan 2016 21:46:05 +0300
 
 qtimageformats-opensource-src (5.5.1-2) unstable; urgency=medium
 
