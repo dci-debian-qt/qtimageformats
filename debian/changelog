@@ -1,4 +1,4 @@
-qtimageformats-opensource-src (5.6.0-1) UNRELEASED; urgency=medium
+qtimageformats-opensource-src (5.6.0-1) experimental; urgency=medium
 
   [ Dmitry Shachnev ]
   * Drop unused pkg-kde-tools build-dependency.
@@ -10,7 +10,7 @@ qtimageformats-opensource-src (5.6.0-1) UNRELEASED; urgency=medium
   * Remove libjasper-dev from build-dependencies (Closes: #818209).
   * Switch to secure repos' URLs.
 
- -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Fri, 08 Jan 2016 15:11:15 +0300
+ -- Lisandro Damián Nicanor Pérez Meyer <lisandro@debian.org>  Sat, 19 Mar 2016 12:30:16 -0300
 
 qtimageformats-opensource-src (5.6.0~beta-1) experimental; urgency=medium
 
