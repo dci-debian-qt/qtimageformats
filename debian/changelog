@@ -1,3 +1,10 @@
+qtimageformats-opensource-src (5.7.0-1) UNRELEASED; urgency=medium
+
+  [ Dmitry Shachnev ]
+  * New upstream release.
+
+ -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Mon, 11 Jul 2016 23:40:57 +0300
+
 qtimageformats-opensource-src (5.6.1-2) unstable; urgency=medium
 
   * Upload to unstable.
