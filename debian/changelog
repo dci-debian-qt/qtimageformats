@@ -1,9 +1,9 @@
-qtimageformats-opensource-src (5.9.0-1) UNRELEASED; urgency=medium
+qtimageformats-opensource-src (5.9.0-1) experimental; urgency=medium
 
   * New upstream release.
   * Add myself to Uploaders.
 
- -- Simon Quigley <tsimonq2@ubuntu.com>  Mon, 12 Jun 2017 23:38:14 -0500
+ -- Simon Quigley <tsimonq2@ubuntu.com>  Fri, 16 Jun 2017 03:04:55 -0500
 
 qtimageformats-opensource-src (5.7.1~20161021-2) unstable; urgency=medium
 
