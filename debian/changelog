@@ -1,4 +1,4 @@
-qtimageformats-opensource-src (5.9.3-1) UNRELEASED; urgency=medium
+qtimageformats-opensource-src (5.9.3-1ubuntu1) bionic; urgency=medium
 
   [ Lisandro Damián Nicanor Pérez Meyer ]
   * Let dh_auto_configure pass cross tools to qmake (Closes: #881691).
@@ -7,7 +7,7 @@ qtimageformats-opensource-src (5.9.3-1) UNRELEASED; urgency=medium
   [ Simon Quigley ]
   * New upstream release.
 
- -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Fri, 24 Nov 2017 17:40:48 -0300
+ -- Simon Quigley <tsimonq2@ubuntu.com>  Thu, 30 Nov 2017 22:29:04 -0600
 
 qtimageformats-opensource-src (5.9.2-1) unstable; urgency=medium
 
