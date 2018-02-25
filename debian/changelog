@@ -1,3 +1,9 @@
+qtimageformats-opensource-src (5.9.4-0ubuntu1) UNRELEASED; urgency=medium
+
+  * New upstream release.
+
+ -- Simon Quigley <tsimonq2@ubuntu.com>  Sun, 25 Feb 2018 00:19:53 -0600
+
 qtimageformats-opensource-src (5.9.2-2) unstable; urgency=medium
 
   * Let dh_auto_configure pass cross tools to qmake (Closes: #881691).
