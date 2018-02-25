@@ -1,10 +1,12 @@
-qtimageformats-opensource-src (5.9.3-1ubuntu1) bionic; urgency=medium
+qtimageformats-opensource-src (5.9.2-2) unstable; urgency=medium
 
-  [ Lisandro Damián Nicanor Pérez Meyer ]
   * Let dh_auto_configure pass cross tools to qmake (Closes: #881691).
     Thanks Helmut Grohne for the patch.
 
-  [ Simon Quigley ]
+ -- Lisandro Damián Nicanor Pérez Meyer <lisandro@debian.org>  Sun, 03 Dec 2017 13:24:12 -0300
+
+qtimageformats-opensource-src (5.9.3-1ubuntu1) bionic; urgency=medium
+
   * New upstream release.
 
  -- Simon Quigley <tsimonq2@ubuntu.com>  Thu, 30 Nov 2017 22:29:04 -0600
