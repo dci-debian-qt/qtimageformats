@@ -2,6 +2,7 @@ qtimageformats-opensource-src (5.9.5-0ubuntu1) UNRELEASED; urgency=medium
 
   * New upstream release.
   * Bump qtbase5-dev build-dependency to 5.9.5.
+  * Switch Vcs-[Git Browser] to salsa.debian.org.
 
  -- Dmitry Shachnev <mitya57@ubuntu.com>  Sat, 14 Apr 2018 12:24:47 +0300
 
