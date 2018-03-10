@@ -1,7 +1,9 @@
 qtimageformats-opensource-src (5.10.1-1) UNRELEASED; urgency=medium
 
+  [ Lisandro Damián Nicanor Pérez Meyer ]
   * New upstream release.
     - Bump Qt build dependencies.
+  * Modify debian/watch to follow new upstream naming convention.
 
  -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sat, 10 Mar 2018 10:46:03 -0300
 
