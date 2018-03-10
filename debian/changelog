@@ -1,4 +1,6 @@
-qtimageformats-opensource-src (5.9.2-3) UNRELEASED; urgency=medium
+qtimageformats-opensource-src (5.10.1-1) UNRELEASED; urgency=medium
+
+  * New upstream release.
 
  -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sat, 10 Mar 2018 10:46:03 -0300
 
