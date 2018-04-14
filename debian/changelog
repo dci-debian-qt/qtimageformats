@@ -1,4 +1,4 @@
-qtimageformats-opensource-src (5.9.5-0ubuntu1) UNRELEASED; urgency=medium
+qtimageformats-opensource-src (5.9.5-0ubuntu1) bionic; urgency=medium
 
   * New upstream release.
   * Bump qtbase5-dev build-dependency to 5.9.5.
