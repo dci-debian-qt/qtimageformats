@@ -1,3 +1,10 @@
+qtimageformats-opensource-src (5.11.2-1) UNRELEASED; urgency=medium
+
+  [ Simon Quigley ]
+  * New upstream release.
+
+ -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sat, 06 Oct 2018 21:02:25 -0500
+
 qtimageformats-opensource-src (5.11.1-2) unstable; urgency=medium
 
   * Upload to Sid.
