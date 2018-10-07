@@ -1,11 +1,10 @@
-qtimageformats-opensource-src (5.11.2-1) UNRELEASED; urgency=medium
+qtimageformats-opensource-src (5.11.2-1) experimental; urgency=medium
 
-  [ Simon Quigley ]
   * New upstream release.
   * Bump Standards-version to 4.1.2, no changes needed.
   * Bump Qt dependency to 5.11.2.
 
- -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sat, 06 Oct 2018 21:02:25 -0500
+ -- Simon Quigley <tsimonq2@ubuntu.com>  Sat, 06 Oct 2018 21:23:35 -0500
 
 qtimageformats-opensource-src (5.11.1-2) unstable; urgency=medium
 
