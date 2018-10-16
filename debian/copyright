@@ -1,9 +1,9 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Name: qtimageformats-opensource-src
+Upstream-Name: qtimageformats-everywhere-src
 Source: https://download.qt.io/official_releases/qt/*/submodules/
 
 Files: *
-Copyright: 2016 The Qt Company Ltd.
+Copyright: 2016-2017 The Qt Company Ltd.
 License: LGPL-3 or GPL-2
 
 Files: debian/*
@@ -42,10 +42,11 @@ License: BSD-3-clause
 
 Files: src/3rdparty/libtiff/port/strtoull.c
 Copyright: 1992-1993 The Regents of the University of California.
-License: BSD-4-clause
+           2011 The FreeBSD Foundation
+License: BSD-3-clause
 
 Files: src/3rdparty/libwebp/*
-Copyright: 2010-2015 Google Inc.
+Copyright: 2010-2017 Google Inc.
 License: BSD-3-clause-Google
 
 Files: src/plugins/imageformats/dds/*
@@ -64,7 +65,7 @@ Copyright: 2016 Petroules Corporation
 License: LGPL-3 or GPL-2
 
 Files: tests/*
-Copyright: 2016 The Qt Company Ltd.
+Copyright: 2016-2017 The Qt Company Ltd.
 License: GPL-3 with Qt-1.0 exception
 
 Files: tests/auto/dds/tst_qdds.cpp
@@ -83,7 +84,7 @@ Copyright: 2016 Petroules Corporation
 License: GPL-3 with Qt-1.0 exception
 
 Files: *.qdoc
-Copyright: 2015 The Qt Company Ltd.
+Copyright: 2017 The Qt Company Ltd.
 License: GFDL-NIV-1.3
 
 License: LGPL-3
@@ -248,35 +249,6 @@ License: BSD-libtiff
  WHETHER OR NOT ADVISED OF THE POSSIBILITY OF DAMAGE, AND ON ANY THEORY OF
  LIABILITY, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE
  OF THIS SOFTWARE
-
-License: BSD-4-clause
- Redistribution and use in source and binary forms, with or without
- modification, are permitted provided that the following conditions
- are met:
- 1. Redistributions of source code must retain the above copyright
-    notice, this list of conditions and the following disclaimer.
- 2. Redistributions in binary form must reproduce the above copyright
-    notice, this list of conditions and the following disclaimer in the
-    documentation and/or other materials provided with the distribution.
- 3. All advertising materials mentioning features or use of this software
-    must display the following acknowledgement:
-      This product includes software developed by the University of
-      California, Berkeley and its contributors.
- 4. Neither the name of the University nor the names of its contributors
-    may be used to endorse or promote products derived from this software
-    without specific prior written permission.
- .
- THIS SOFTWARE IS PROVIDED BY THE REGENTS AND CONTRIBUTORS ``AS IS'' AND
- ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
- IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
- ARE DISCLAIMED.  IN NO EVENT SHALL THE REGENTS OR CONTRIBUTORS BE LIABLE
- FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
- DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS
- OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)
- HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT
- LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY
- OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
- SUCH DAMAGE.
 
 License: BSD-3-clause-Google
  Redistribution and use in source and binary forms, with or without
