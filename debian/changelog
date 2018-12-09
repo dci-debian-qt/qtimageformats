@@ -1,10 +1,9 @@
-qtimageformats-opensource-src (5.11.3-1) UNRELEASED; urgency=medium
+qtimageformats-opensource-src (5.11.3-1) experimental; urgency=medium
 
-  [ Lisandro Damián Nicanor Pérez Meyer ]
   * New upstream release.
     - Bump Qt build dependencies.
 
- -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sun, 09 Dec 2018 15:59:52 -0300
+ -- Lisandro Damián Nicanor Pérez Meyer <lisandro@debian.org>  Sun, 09 Dec 2018 16:02:26 -0300
 
 qtimageformats-opensource-src (5.11.2-2) unstable; urgency=medium
 
