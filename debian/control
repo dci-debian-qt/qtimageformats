@@ -13,7 +13,7 @@ Build-Depends: debhelper (>= 11),
                libmng-dev,
                libtiff-dev,
                libwebp-dev (>= 0.4.0-4.1~),
-               qtbase5-dev (>= 5.11.2+dfsg~)
+               qtbase5-dev (>= 5.11.3+dfsg~)
 Standards-Version: 4.2.1
 Homepage: http://qt-project.org/
 Vcs-Git: https://salsa.debian.org/qt-kde-team/qt/qtimageformats.git
